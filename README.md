@@ -1,1 +1,1 @@
-# A ArgoCD Test
+# An ArgoCD Test
